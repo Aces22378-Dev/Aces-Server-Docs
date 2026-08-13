@@ -1,7 +1,7 @@
 # COMMUNITY MANAGEMENT TEAM HANDBOOK
 
 **Author:** Its-Aurelia-Dev
-**Server Staff Document — COMMUNITY MANAGEMENT TEAM**
+**Server Staff Document — Community Management Team**
 
 ## 1. PURPOSE
 
