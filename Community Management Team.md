@@ -1,7 +1,7 @@
-# COMMUNITY STAFF HANDBOOK
+# COMMUNITY MANAGEMENT TEAM HANDBOOK
 
 **Author:** Its-Aurelia-Dev
-**Server Staff Document — Community Staff Team**
+**Server Staff Document — COMMUNITY MANAGEMENT TEAM**
 
 ## 1. PURPOSE
 
@@ -15,15 +15,12 @@ Unlike Moderators, whose primary responsibility is rule enforcement, Community S
 
 Community Staff may be responsible for:
 
-* Welcoming new members.
-* Helping members find information.
 * Organizing community events.
 * Gathering member feedback.
 * Promoting positive community interaction.
 * Assisting with announcements.
 * Supporting community projects.
 * Identifying recurring community concerns.
-* Helping members navigate server resources.
 * Reporting rule violations to Moderators.
 * Communicating community feedback to Admins and Executives.
 
