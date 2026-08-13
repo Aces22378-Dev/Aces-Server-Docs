@@ -1,4 +1,4 @@
-# ADMINISTRATOR HANDBOOK
+# ADMINISTRATION TEAM HANDBOOK
 ### Author: Its-Aurelia-Dev
 
 **Server Staff Document — Administrator Team**
