@@ -1,7 +1,7 @@
-# MODERATOR HANDBOOK
+# MODERATION TEAM HANDBOOK
 ### Author: Its-Aurelia-Dev
 
-**Server Staff Document — Moderator Team**
+**Server Staff Document — Moderation Team**
 
 ## 1. PURPOSE
 
