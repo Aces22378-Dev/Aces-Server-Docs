@@ -1,7 +1,7 @@
 # ADMINISTRATION TEAM HANDBOOK
 ### Author: Its-Aurelia-Dev
 
-**Server Staff Document — Administrator Team**
+**Server Staff Document — Administration Team**
 
 ## 1. PURPOSE
 
