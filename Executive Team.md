@@ -1,4 +1,4 @@
-# EXECUTIVE HANDBOOK
+# EXECUTIVE TEAM HANDBOOK
 
 **Author:** Its-Aurelia-Dev
 **Server Staff Document — Executive Team**
